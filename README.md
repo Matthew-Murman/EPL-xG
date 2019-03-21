@@ -8,5 +8,5 @@
 
 ## Description
 There are two parts to this project.
-* 1) Scraping understat.com and premierleague.fantasy for various data on teams and players in the English Premier league
-* 2) Cleaning, visualizing, and analyzing the data to objectively determine team and player performance
+1) Scraping understat.com and premierleague.fantasy for various data on teams and players in the English Premier league
+2) Cleaning, visualizing, and analyzing the data to objectively determine team and player performance
