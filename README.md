@@ -1,6 +1,6 @@
 ## Usage
-1 Run xGDataScraper notebook
-2 Run EPL PLayer Analysis notebook
+1) Run xGDataScraper notebook
+2) Run EPL PLayer Analysis notebook
 
 
 ## Libraries & Versions Used
